@@ -177,4 +177,4 @@ firstGameContainer.appendChild(topGameElement);
 const secondTopGameElement = document.createElement("p");
 secondTopGameElement.innerHTML = `Second Top Game: ${secondTopGame.name}`;
 secondGameContainer.appendChild(secondTopGameElement);
-em
+  
