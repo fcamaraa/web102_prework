@@ -27,8 +27,10 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur 
-<!-- Recommended tools:
+
 https://imgur.com/a/WTzrt8A
+<!-- Recommended tools:
+
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
